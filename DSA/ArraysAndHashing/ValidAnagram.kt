@@ -1,3 +1,7 @@
+package ArraysAndHashing
+
+import kotlin.text.iterator
+
 /**
  * Valid Anagram
  * Easy
